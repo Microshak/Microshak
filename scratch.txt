@@ -1,0 +1,17 @@
+kubectl create secret generic regcred \
+    --from-file=.dockerconfigjson=/home/microshak/.docker/config.json \
+    --type=kubernetes.io/dockerconfigjson
+
+
+    def authenticate(username, password):
+        user = User.objects(username=username).first()
+        #usr = user.objects.get_or_404(username=username)
+        print(user.username)
+        print(user.username)
+        print(user.username)
+        print(user.username)
+        print(user.username)
+        print(user.username)
+        print(user.username)
+        #if user and safe_str_cmp(user.password.encode('utf-8'), password.encode('utf-8')):
+        return user

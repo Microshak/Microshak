@@ -1,0 +1,4 @@
+flask-mongoengine
+flask_user
+flask-bcrypt
+flask_jwt_extended

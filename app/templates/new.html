@@ -1,0 +1,25 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<h2>Welcome to Coiny!</h2>
+<p><a href={{ url_for('user.register') }}>Register</a></p>
+<p><a href={{ url_for('user.login') }}>Sign in</a></p>
+
+{% endblock %}
+ {% block scripts %}
+<script>
+
+$(function() {
+    
+    $('body').addClass('sidebar-collapse');
+    $('body').removeClass('sidebar-mini')
+    
+})
+
+</script>
+
+
+{% endblock %}
+
+

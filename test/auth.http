@@ -1,0 +1,14 @@
+
+
+
+POST /auth HTTP/1.1
+Host: localhost:88
+Content-Type: application/json
+
+{
+    "username": "Mike",
+    "password": "1Lucky1"
+}
+###
+
+GET /protected HTTP/1.1
