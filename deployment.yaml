@@ -9,7 +9,7 @@ spec:
   selector:
     matchLabels:
       app: microshak
-  replicas: 2
+  replicas: 1
   template:
     metadata:
       labels:
@@ -21,7 +21,7 @@ spec:
         imagePullPolicy: Always
         ports:
           - name: web
-            containerPort: 5000
+            containerPort: 8080
       imagePullSecrets:
       - name: regcred
 ---

@@ -4,7 +4,7 @@ docker run -p 5000:5000 -t web:latest
 docker tag web:latest microshak/web:latest
 docker push microshak/web:latest
 
-docker run -p 5000:8081 -t microshak/web:latest 
+docker run -p 5001:8081 -t microshak/web:latest 
 
 
 
