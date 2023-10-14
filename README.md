@@ -1,1 +1,2 @@
-![Mikes's github stats](https://github-readme-stats.vercel.app/api?username=microshak)
+![Mikes's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=microshak&theme=github)
+
