@@ -5,3 +5,8 @@
 
 
 
+# 📊 My Stats
+
+[![microshak's github stats](https://github-readme-stats.vercel.app/api?username=microshak&show_icons=true&count_private=true&theme=radical&hide=stars)](https://microshak/github)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=microshak&theme=dark&count_private=true&theme=radical)](https://microshak/github)
