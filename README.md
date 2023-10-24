@@ -6,9 +6,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=MicroNotes&theme=radical)](https://github.com/microshak/MicroNotes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PacktPublishing&repo=Artificial-Intelligence-for-IoT-Cookbook&theme=radical)](https://github.com/PacktPublishing/Artificial-Intelligence-for-IoT-Cookbook)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=LLM_Chat_UI&theme=radical)](https://github.com/microshak/LLM_Chat_UI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=Azure-IoTHub-Data-Loader&theme=radical)](https://github.com/microshak/Azure-IoTHub-Data-Loader)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=Databricks&theme=radical)](https://github.com/microshak/Databricks)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=IoTDataScience&theme=radical)](https://github.com/microshak/IoTDataScience)
 
 ## Machine Learning 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=IoTDataScience&theme=radical)](https://github.com/microshak/IoTDataScience)
@@ -19,7 +16,6 @@
 
 ## IoT
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=Terraform-IoTHub-RA&theme=radical)](https://github.com/microshak/Terraform-IoTHub-RA)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=WebService&theme=radical)](https://github.com/microshak/WebService)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=IoTDoor&theme=radical)](https://github.com/microshak/IoTDoor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=pi_iot_environment_monitor&theme=radical)](https://github.com/microshak/pi_iot_environment_monitor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=sensehat_iothub_edge&theme=radical)](https://github.com/microshak/sensehat_iothub_edge)
@@ -39,7 +35,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=azure-iot-samples-python&theme=radical)](https://github.com/microshak/azure-iot-samples-python)
 
 ## Robotics
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=Sawyer-Robot-Orientation-Tester &theme=radical)](https://github.com/microshak/Sawyer-Robot-Orientation-Tester)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=Sawyer-Robot-Orientation-Tester&theme=radical)](https://github.com/microshak/Sawyer-Robot-Orientation-Tester)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=iotil-sawyer&theme=radical)](https://github.com/microshak/iotil-sawyer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=iotil-RobotAPI&theme=radical)](https://github.com/microshak/iotil-RobotAPI)
 
