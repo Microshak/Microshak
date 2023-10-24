@@ -6,6 +6,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=MicroNotes&theme=radical)](https://github.com/microshak/MicroNotes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PacktPublishing&repo=Artificial-Intelligence-for-IoT-Cookbook&theme=radical)](https://github.com/PacktPublishing/Artificial-Intelligence-for-IoT-Cookbook)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=LLM_Chat_UI&theme=radical)](https://github.com/microshak/LLM_Chat_UI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=home-lab&theme=radical)](https://github.com/microshak/home-lab)
 
 ## Machine Learning 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=IoTDataScience&theme=radical)](https://github.com/microshak/IoTDataScience)
