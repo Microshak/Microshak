@@ -13,7 +13,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=Databricks&theme=radical)](https://github.com/microshak/Databricks)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=RStudio-Databricks&theme=radical)](https://github.com/microshak/RStudio-Databricks)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=Computer_Vision_Demo&theme=radical)](https://github.com/microshak/Computer_Vision_Demo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=Computer_Vision_Demo&theme=radical)](https://github.com/microshak/Computer_Vision_Demo)
 
 ## IoT
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=Terraform-IoTHub-RA&theme=radical)](https://github.com/microshak/Terraform-IoTHub-RA)
