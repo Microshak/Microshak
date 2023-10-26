@@ -31,9 +31,9 @@
 
 
 ## Cloud
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=MicroACI&theme=radical)](https://github.com/microshak/MicroACI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=AzureML-Python-Example&theme=radical)](https://github.com/microshak/AzureML-Python-Example)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=azure-iot-samples-python&theme=radical)](https://github.com/microshak/azure-iot-samples-python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=MicroACI&theme=radical)](https://github.com/microshak/MicroACI)
 
 ## Robotics
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=Sawyer-Robot-Orientation-Tester&theme=radical)](https://github.com/microshak/Sawyer-Robot-Orientation-Tester)
