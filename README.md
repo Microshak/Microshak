@@ -18,7 +18,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=Terraform-IoTHub-RA&theme=radical)](https://github.com/microshak/Terraform-IoTHub-RA)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=IoTDoor&theme=radical)](https://github.com/microshak/IoTDoor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=pi_iot_environment_monitor&theme=radical)](https://github.com/microshak/pi_iot_environment_monitor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=sensehat_iothub_edge&theme=radical)](https://github.com/microshak/sensehat_iothub_edge)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microshak&repo=IoTDataScience&theme=radical)](https://github.com/microshak/IoTDataScience)
 
 
